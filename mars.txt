@@ -1,1 +1,3 @@
-Hello, these are facts about Mars.
+Hello, these are facts about Mars...
+
+This is more information about canals.
